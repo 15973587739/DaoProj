@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mydaoframework-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/classes/artifacts/mydaoframework_1_0_SNAPSHOT/mydaoframework-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
